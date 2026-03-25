@@ -1,0 +1,54 @@
+Timestamp,Patient ID,Patient Name,Test Mode,Character Given,Character Response,Character Score,Word Given,Word Response,Word Score,Sentence Given,Sentence Response,Sentence Score,Image Text Given,Image Response,Image Score,Final Score,Risk Level
+12-03-2026 11:21,1,Ajay,Text,R,R,100,substances,snbstauces,40,Learn math concepts with interactive digital games,"Learn math concepts with interactive digital games
+",100,"Let me wake up next to you,
+have coffee in the morning, and
+wander through the city with
+your hand in mine, and I'll be
+happy for the rest of my little life.","Let me wake up next to you,
+have coffee in the morning, and
+wander through the city with
+your hand in mine, and I'll be
+happy for the rest of my little life.",100,85,Low Risk - Reading Skills Appear Typical
+12-03-2026 11:26,1,Ajay,audio,V,v,100,development,development,100,Biodiversity refers to the variety of life,biodiversity refers to the variety of life,100,"I never wake up in the
+morning and wonder
+why I am here. I wake
+up and wonder why |
+am not making here
+better.",I never wake up in the morning and wonder why I am your I wake up and wonder why I am not making your better,91.63,97.91,Low Risk - Reading Skills Appear Typical
+12-03-2026 11:31,2,Prem,Text,k,K,0,triangle,Thriange,37.5,Practice spelling skills through engaging word puzzles,practice spetting skitts throu engage work pussle,38.84,"I never wake up in the
+morning and wonder
+why I am here. I wake
+up and wonder why |
+am not making here
+better.","You never know when it
+going to be over so I refuse
+to have a bad day.",21.83,24.54,"High Risk - Likely Dyslexia, Consult a Specialist"
+12-03-2026 22:20,1,2,Text,Z,z,0,substances,substances,100,Cybersecurity professionals protect against online threats and attacks,Cybersecurity professionals protect against online threats and attacks,100,"It was the best of
+times, it was the worst
+of times, it was the age
+of wisdom, it was the
+age of foolishness.","It was the best of
+times, it was the worst
+of times, it was the age
+of wisdom, it was the
+age of foolishness.",100,75,Moderate Risk - Some Reading Difficulties Detected
+12-03-2026 22:22,2,xyz,audio,f,f,100,Intelligence,intelligence,100,Practice spelling skills through engaging word puzzles,practice spelling skills through engaging word puzzles,100,"The idea is not
+to live forever,
+but to create
+
+something
+that will.",the idea is not to live forever but to create something that will,100,100,No Dyslexia Detected
+24-03-2026 21:25,01,abc,Text,r,r,100,meanings,meamimgs,37.5,Improve reading comprehension with exciting storybooks,Imqeove reading camprahension with exciting storybooks,79.63,"I never wake up in the
+morning and wonder
+why I am here. I wake
+up and wonder why |
+am not making here
+better.","You never know when it
+going to be over so I refuse
+to have a bad day.",21.83,59.74,"High Risk - Likely Dyslexia, Consult a Specialist"
+2026-03-24 21:29:06,1,sef,audio,O,o,100.0,mountain,fountain,43.75,Whispers in the hallway echoed with mystery and intrigue,Vishwas I am the highway Accord with history and interview,50.0,"I never wake up in the
+morning and wonder
+why I am here. I wake
+up and wonder why |
+am not making here
+better.",I never woke up in the morning and wonder why in here I wake up and wonder why I am not hacking here,86.06,69.95,"High Risk - Likely Dyslexia, Consult a Specialist"
